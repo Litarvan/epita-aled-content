@@ -145,6 +145,10 @@
       {
         "id": "pg-04",
         "name": "Pointeurs et references"
+      },
+      {
+        "id": "pg-05",
+        "name": "Le Web moderne"
       }
     ]
   }
