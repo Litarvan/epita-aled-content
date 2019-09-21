@@ -1,0 +1,151 @@
+[
+  {
+    "name": "Les PC d'Épita",
+    "content": [
+      {
+        "id": "pc-00",
+        "name": "Les PC de l'école"
+      },
+      {
+        "id": "pc-01",
+        "name": "Customiser sa session"
+      },
+      {
+        "id": "pc-02",
+        "name": "Les bases d'i3"
+      },
+      {
+        "id": "pc-03",
+        "name": "Les bases d'Emacs"
+      }
+    ]
+  },
+  {
+    "name": "Informatique générale",
+    "content": [
+      {
+        "id": "if-00",
+        "name": "BIOS et UEFI"
+      },
+      {
+        "id": "if-01",
+        "name": "Les disques, partitions, et filesystems"
+      },
+      {
+        "id": "if-03",
+        "name": "MacOS c'est nul ? Non !"
+      },
+      {
+        "id": "if-04",
+        "name": "La lumière bleue et les filtres jaunes"
+      }
+    ]
+  },
+  {
+    "name": "Linux",
+    "content": [
+      {
+        "id": "lx-00",
+        "name": "Linux ou pas ?"
+      },
+      {
+        "id": "lx-01",
+        "name": "Quelle distribution choisir"
+      },
+      {
+        "id": "lx-02",
+        "name": "Installer Linux sur une machine virtuelle"
+      },
+      {
+        "id": "lx-03",
+        "name": "Installer Linux en dual boot"
+      },
+      {
+        "id": "lx-04",
+        "name": "Linux et GNU/Linux"
+      },
+      {
+        "id": "lx-05",
+        "name": "Les bureaux sous linux"
+      },
+      {
+        "id": "lx-06",
+        "name": "L'organisation du disque"
+      },
+      {
+        "id": "lx-07",
+        "name": "Les liens et les montages"
+      },
+      {
+        "id": "lx-08",
+        "name": "Les shells et les terminaux"
+      },
+      {
+        "id": "lx-09",
+        "name": "Les terminaux TTY"
+      },
+      {
+        "id": "lx-010",
+        "name": "Les commandes de base"
+      },
+      {
+        "id": "lx-011",
+        "name": "Setup internet manuellement"
+      },
+      {
+        "id": "lx-12",
+        "name": "Systemd et les services"
+      },
+      {
+        "id": "lx-13",
+        "name" : "La commande chroot"
+      }
+    ]
+  },
+  {
+    "name": "LaTeX",
+    "content": [
+      {
+        "id": "lt-00",
+        "name": "Setup LaTeX chez soi"
+      },
+      {
+        "id": "lt-01",
+        "name": "Emacs et LaTeX"
+      },
+      {
+        "id": "lt-02",
+        "name": "Les bases de LaTeX"
+      },
+      {
+        "id": "lt-03",
+        "name": "Écrire des maths en LaTeX"
+      }
+    ]
+  },
+  {
+    "name": "Programmation",
+    "content": [
+      {
+        "id": "pg-00",
+        "name": "Natif et non-natif"
+      },
+      {
+        "id": "pg-01",
+        "name": "Haut et bas niveau"
+      },
+      {
+        "id": "pg-02",
+        "name": "La compilation native"
+      },
+      {
+        "id": "pg-03",
+        "name": "Les différents langages"
+      },
+      {
+        "id": "pg-04",
+        "name": "Pointeurs et references"
+      }
+    ]
+  }
+]
