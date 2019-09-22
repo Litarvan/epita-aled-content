@@ -54,11 +54,11 @@
       },
       {
         "id": "lx-02",
-        "name": "Installer Linux sur une machine virtuelle"
+        "name": "Installer Arch Linux sur une machine virtuelle"
       },
       {
         "id": "lx-03",
-        "name": "Installer Linux en dual boot"
+        "name": "Installer Linux/Arch Linux en dual boot"
       },
       {
         "id": "lx-04",
