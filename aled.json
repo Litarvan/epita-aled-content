@@ -42,6 +42,10 @@
       {
         "id": "if-04",
         "name": "Les unités de stockage"
+      },
+      {
+        "id": "if-05",
+        "name": "Les architectures"
       }
     ]
   },
@@ -99,10 +103,6 @@
       {
         "id": "lx-12",
         "name": "Systemd et les services"
-      },
-      {
-        "id": "lx-13",
-        "name" : "La commande chroot"
       }
     ]
   },
