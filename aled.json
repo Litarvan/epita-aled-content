@@ -46,6 +46,10 @@
       {
         "id": "if-05",
         "name": "Les architectures"
+      },
+      {
+        "id": "if-06",
+        "name": "Les bases de git"
       }
     ]
   },
