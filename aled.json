@@ -101,11 +101,15 @@
         "name": "Les commandes de base"
       },
       {
-        "id": "lx-011",
-        "name": "Setup internet manuellement"
+        "id": "lx-11",
+        "name": "Les utilisateurs et les permissions"
       },
       {
         "id": "lx-12",
+        "name": "Setup internet manuellement"
+      },
+      {
+        "id": "lx-13",
         "name": "Systemd et les services"
       }
     ]
