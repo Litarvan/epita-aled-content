@@ -107,10 +107,6 @@
       {
         "id": "lx-12",
         "name": "Setup internet manuellement"
-      },
-      {
-        "id": "lx-13",
-        "name": "Systemd et les services"
       }
     ]
   },
