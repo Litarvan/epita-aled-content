@@ -7,6 +7,9 @@ La plupart des choses que j'ai écrites sont sorties de ma tête (sauf quelques 
 à me le dire. Aussi, si certains articles importants sont très expliqués (par exemple i3 ou l'installation de Linux), certains articles sont uniquement théoriques et nécessiteront des recherches
 personnelles pour les suivre et les comprendre complètement.
 
+**Il manque encore les deux dernières parties**, car elles ne sont pas _primordiales_ à ce stade de l'année (LaTeX arrive bientôt quand même). Le reste est terminé, mais sujet à des modifications
+(c'est pas encore parfait). 
+
 Évidemment tout est rédigé un peu vite vu la taille et le nombre d'articles, donc il y a encore beaucoup de fautes (je vais corriger ça à la fin, mais pour l'instant ce n’est pas fini).
 
 La liste des articles se trouve à gauche, il suffit de cliquer sur l'article désiré pour l'afficher. Vous pouvez aussi activer le **mode sombre** (très utile) grâce à l'icône Lune en haut à droite,
