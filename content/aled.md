@@ -10,7 +10,8 @@ personnelles pour les suivre et les comprendre complètement.
 **Il manque encore les deux dernières parties**, car elles ne sont pas _primordiales_ à ce stade de l'année (LaTeX arrive bientôt quand même). Le reste est terminé, mais sujet à des modifications
 (c'est pas encore parfait). 
 
-Évidemment tout est rédigé un peu vite vu la taille et le nombre d'articles, donc il y a encore beaucoup de fautes (je vais corriger ça à la fin, mais pour l'instant ce n’est pas fini).
+Évidemment tout est rédigé un peu vite vu la taille et le nombre d'articles, donc il y a encore beaucoup de fautes (je vais corriger ça à la fin, mais pour l'instant ce n’est pas fini, d'ailleurs
+merci Mathis P pour l'aide de ce côté !).
 
 La liste des articles se trouve à gauche, il suffit de cliquer sur l'article désiré pour l'afficher. Vous pouvez aussi activer le **mode sombre** (très utile) grâce à l'icône Lune en haut à droite,
 ou voir le code source _Markdown_ d'un article. 
