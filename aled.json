@@ -140,26 +140,34 @@
     "content": [
       {
         "id": "pg-00",
-        "name": "Natif et non-natif"
+        "name": "Mettre en place les outils C#"
       },
       {
         "id": "pg-01",
-        "name": "Haut et bas niveau"
+        "name": "Mettre en place les outils Python"
       },
       {
         "id": "pg-02",
-        "name": "La compilation native"
+        "name": "Natif et non-natif"
       },
       {
         "id": "pg-03",
-        "name": "Les différents langages"
-      },
-      {
-        "id": "pg-04",
-        "name": "Pointeurs et references"
+        "name": "Haut et bas niveau"
       },
       {
         "id": "pg-05",
+        "name": "La compilation native"
+      },
+      {
+        "id": "pg-06",
+        "name": "Les différents langages"
+      },
+      {
+        "id": "pg-07",
+        "name": "Pointeurs et references"
+      },
+      {
+        "id": "pg-08",
         "name": "Le Web moderne"
       }
     ]
